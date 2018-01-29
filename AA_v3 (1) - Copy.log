@@ -1,0 +1,1 @@
+20160503-20:05:56.355 00004380 - ERROR: ERROR 10054 -1 in TransportTCP1::ReadExact()#2 in TrClient::Run()#239
