@@ -2,9 +2,6 @@
 \dev\advantage\Source\VLS\OtherFiles\Financial\Offline1099RepUtil.java /
 \dev\advantage\Source\VLS\OtherFiles\Financial\Offline1099MiscVendorRep.java /
 \dev\advantage\Source\VLS\OtherFiles\Financial\Offline1099MagRep.java /
-\dev\advantage\Source\VLS\OtherFiles\Financial\Offline1099FormsRep.java /
-\dev\advantage\Source\VLS\OtherFiles\Financial\Offline1099Export.java /
-\dev\advantage\Source\VLS\OtherFiles\Financial\Offline1099.java /
 \dev\advantage\Source\VLS\DataObjects\Financial\AP\R_RPT_1042S_INCImpl.java /
 \dev\advantage\Source\VLS\DataObjects\Financial\AP\R_RPT_1042S_INC.xml /
 \dev\advantage\Source\VLS\DataObjects\Financial\AP\R_1099_RPT_PYRINFO.xml /
